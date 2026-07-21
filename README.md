@@ -17,10 +17,6 @@ Backend developer passionate about building scalable systems and understanding h
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
-<a href="https://github.com/AyanMhd">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
 </p>
 
 ---
